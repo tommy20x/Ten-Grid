@@ -1,0 +1,15 @@
+.login {
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  /* background: linear-gradient(139.73deg, rgb(49, 61, 92) 0%, rgb(61, 42, 84) 100%); */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
